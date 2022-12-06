@@ -34,7 +34,7 @@ Afterwards, I executed the script and I saw an output at the terminal like this:
 
 Finally, I could reproduce the stream on my cellphone.
 
-<img src="https://...thumbs-up.gif](https://github.com/juliatogr/P3_SCAV/main/screenshots/ex3/Screen_Recording_YouTube.gif">
+Screen_Recording_YouTube.mp4
 
 
 ## Exercise 4
