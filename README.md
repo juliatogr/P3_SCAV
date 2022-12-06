@@ -34,7 +34,7 @@ Afterwards, I executed the script and I saw an output at the terminal like this:
 
 Finally, I could reproduce the stream on my cellphone.
 
-Screen_Recording_YouTube.mp4
+<img src="screenshots/ex3/Screen_Recording_YouTube.mp4">
 
 
 ## Exercise 4
