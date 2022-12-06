@@ -34,7 +34,7 @@ Afterwards, I executed the script and I saw an output at the terminal like this:
 
 Finally, I could reproduce the stream on my cellphone.
 
-![](https://github.com/juliatogr/P3_SCAV/main/screenshots/ex3/Screen_Recording_YouTube.gif)
+![Alt Text](https://github.com/juliatogr/P3_SCAV/main/screenshots/ex3/Screen_Recording_YouTube.gif)
 
 ## Exercise 4
 ### Statement
