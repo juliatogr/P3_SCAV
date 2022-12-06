@@ -1,6 +1,7 @@
 import subprocess as sp
 
-sp.call(["ffmpeg", "-i", "./videos/alan.mp4",
+sp.call(["ffmpeg",
+         "-i", "./videos/alan.mp4",
          "-i", "./videos/alan.mp4",
          "-i", "./videos/alan.mp4",
          "-filter_complex", "copy[v1out]",
